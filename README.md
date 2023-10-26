@@ -1,16 +1,8 @@
-# new_app
+# TIC TAC TOE GAME
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/DGJ2627/TIC-TAC-TOE-Game/assets/114165275/8f8502f3-34dc-4301-9150-9d2d7b3cc0ea
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
